@@ -1,5 +1,10 @@
 {
   "devDependencies": {
-    "web3": "^4.0.1"
+    "dotenv": "^16.3.1",
+    "web3": "^0.20.6",
+    "websockets": "^0.2.0"
+  },
+  "dependencies": {
+    "curl": "^0.1.4"
   }
 }
